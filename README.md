@@ -1,4 +1,4 @@
-## Olá! Eu sou a Marisa Mayumi!👋
+## Olá! Eu sou a Marisa!👋
 
 - 🔭 Estudante de Informática em IFSP-campus São Paulo
 - 🌱 Atualmente estudando Python, JavaScript, Java, HTML e CSS, PHP
