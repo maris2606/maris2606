@@ -14,7 +14,7 @@
 <!--gráficos de commmits e principais linguagens-->
 <div><br>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maris2606&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maris2606&layout=compact&langs_count=16&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maris2606&layout=pie&langs_count=16&theme=dracula" />
 </div>
 
 ##
