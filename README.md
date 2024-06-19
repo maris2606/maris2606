@@ -42,4 +42,4 @@
 ##
 
 <!--grafico de atividade-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maris2606&bg_color=282a36&color=dd6398&line=bd93f9&point=bd93f9&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Maris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maris2606&theme=dracula)
