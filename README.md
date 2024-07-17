@@ -13,8 +13,9 @@
 
 <!--gráficos de commmits e principais linguagens-->
 <div>
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=maris2606&theme=dracula&mode=weekly" />
-  <br>
+  <img heith=55%   src="https://github-readme-streak-stats.herokuapp.com?user=maris2606&theme=dracula&mode=weekly" />
+</div>
+<div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maris2606&show_icons=true&theme=dracula" />
   <br>
   <img height="280cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maris2606&layout=pie&langs_count=16&theme=dracula" />
