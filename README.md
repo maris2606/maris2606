@@ -11,14 +11,16 @@
 - 📫 Email: marisa.mayumi.mo@gmail.com
 - 😄 Pronomes: Ela/Dela 
 
+##
+
 <!--gráficos de commmits e principais linguagens-->
 <div>
   <img heith=55%   src="https://github-readme-streak-stats.herokuapp.com?user=maris2606&theme=dracula&mode=weekly" />
-</div>
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maris2606&show_icons=true&theme=dracula" />
   <br>
-  <img height="280cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maris2606&layout=pie&langs_count=16&theme=dracula" />
+  <br>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maris2606&show_icons=true&theme=dracula" />
+  
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maris2606&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 ##
