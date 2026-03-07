@@ -6,10 +6,10 @@
 
 ##
 
-- 🔭 Estudante de Informática em IFSP-campus São Paulo
+- 📖 Estudante de Sistemas de Informação na USP - EACH
+- 💻 Técnica em Informática ( IFSP - campus São Paulo )
 - 🌱 Atualmente estudando Python, JavaScript, Java, HTML e CSS, PHP
 - 📫 Email: marisa.mayumi.mo@gmail.com
-- 😄 Pronomes: Ela/Dela 
 
 ##
 
