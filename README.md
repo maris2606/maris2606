@@ -8,12 +8,6 @@
 - 📖 Information Systems student at USP – EACH  
 - 💻 IT Technician from IFSP – São Paulo Campus  
 - 🌱 Currently learning Python, JavaScript, Java, HTML, CSS, and PHP
-
-##
-
-- 📖 Estudante de Sistemas de Informação na USP - EACH
-- 💻 Técnica em Informática ( IFSP - campus São Paulo )
-- 🌱 Atualmente estudando Python, JavaScript, Java, HTML e CSS, PHP
 - 📫 Email: marisa.mayumi.mo@gmail.com
 
 ##
