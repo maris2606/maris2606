@@ -3,8 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=DD6388&center=true&vCenter=true&random=false&width=1000&lines=Hello!%2C+my+name+is+Marisa;Information+Systems+Student+at+USP;Brazillian)](https://git.io/typing-svg)
 
 <br>
+<h3>About me:</h3>
 
 ##
+
 - 📖 Information Systems student at USP – EACH  
 - 💻 IT Technician from IFSP – São Paulo Campus  
 - 🌱 Currently learning Python, JavaScript, Java, HTML, CSS, and PHP
@@ -34,6 +36,7 @@
 ##
 
 <!--redes sociais-->
+<h3>Contact info:</h3>
 <div> <br>
   <a href="https://www.linkedin.com/in/marisa-mayumi-morita-ouchi-b85006295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/maris_mayu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
