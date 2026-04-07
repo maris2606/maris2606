@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=DD6388&center=true&vCenter=true&random=false&width=1000&lines=Hello!%2C+my+name+is+Marisa;Information+Systems+Student+at+USP;Brazillian)](https://git.io/typing-svg)
 
 <br>
-<h3>About me:</h3>
 
 ##
+
+<h3>About me:</h3>
 
 - 📖 Information Systems student at USP – EACH  
 - 💻 IT Technician from IFSP – São Paulo Campus  
